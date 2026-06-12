@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/midnight-interlude-with-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Midnight Interlude With You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-interlude-with-you/) |
+| **Get License** | [Commercial Licensing for Midnight Interlude With You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-interlude-with-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Caught in the pull of a quiet room
+> Lost in the sway of a midnight bloom
+> I feel the heat of your skin so near
+> Nothing but us and the shadows here
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
